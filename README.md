@@ -27,6 +27,8 @@
   - 나에게 맞는 적합한 영양제 선택
 
  ![영양제추천](https://github.com/PrimeJin/onu-readme/assets/110287222/3041c5b6-b4c9-4910-ba99-96a9037dd557)
+ <img src="https://github.com/PrimeJin/onu-readme/assets/110287222/3041c5b6-b4c9-4910-ba99-96a9037dd557.png"  width="700" height="700"/>
+
 
 ### 📌 영양 분석
 - **현재 복용중인 영양제를 반영한 영양 성분 그래프 표시**
